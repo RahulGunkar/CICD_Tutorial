@@ -24,3 +24,7 @@ jobs:
       run: |
         pip install pytest
         pytest
+
+    - name: Test Deployment
+      run: |
+        pip install pytest
